@@ -20,7 +20,7 @@ header {
 
 #movieelement {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Gunakan proporsi kolom yang seimbang */
+    grid-template-columns: repeat(2, 1fr); /* Gunakan proporsi kolom yang seimbang */
     gap: 16px; /* Tambahkan jarak antar elemen grid */
     padding: 26px;
     background-color: white;
